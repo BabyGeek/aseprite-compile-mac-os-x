@@ -74,6 +74,6 @@ During the process you may see some failed states or warnings but until you didn
 
 Sources :
 
-1. (Step 1, 2, 3)[https://needoneapp.medium.com/create-an-auto-build-script-for-aseprite-on-mac-os-af8288b34f05]
-2. (Step 4)[https://github.com/aseprite/skia#skia-on-macos]
-3. (Step 5)[https://github.com/aseprite/aseprite/blob/main/INSTALL.md#macos-details]
+1. [Step 1, 2, 3](https://needoneapp.medium.com/create-an-auto-build-script-for-aseprite-on-mac-os-af8288b34f05)
+2. [Step 4](https://github.com/aseprite/skia#skia-on-macos)
+3. [Step 5](https://github.com/aseprite/aseprite/blob/main/INSTALL.md#macos-details)
