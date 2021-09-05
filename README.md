@@ -46,6 +46,8 @@ $ ninja -C out/Release-x64 skia modules
 
 ## 5 - Compile Aseprite
 
+If you have Retina Display see the issue link on Step 5 source.
+
 In this case, __$HOME/deps/skia__ is the directory where Skia was compiled or downloaded. Make sure that __CMAKE_OSX_SYSROOT__ is pointing to the correct SDK directory (in this case __/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk__), but it could be different in your Mac.
 
 ```console
@@ -68,3 +70,10 @@ $ ninja aseprite
 ---
 During the process you may see some failed states or warnings but until you didn't get error let it continu, if no errors happen, now you could run aseprite by ./aseprite.
 
+---
+
+Sources :
+
+1. (Step 1, 2, 3)[https://needoneapp.medium.com/create-an-auto-build-script-for-aseprite-on-mac-os-af8288b34f05]
+2. (Step 4)[https://github.com/aseprite/skia#skia-on-macos]
+3. (Step 5)[https://github.com/aseprite/aseprite/blob/main/INSTALL.md#macos-details]
