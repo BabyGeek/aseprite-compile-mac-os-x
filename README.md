@@ -68,7 +68,8 @@ $ cmake \
 $ ninja aseprite
 ```
 ---
-During the process you may see some failed states or warnings but until you didn't get error let it continu, if no errors happen, now you could run aseprite by ./aseprite.
+
+During the process you may see some failed states or warnings but until you didn't get error let it continu, if no errors happen, now you could run aseprite by ./bin/aseprite.
 
 ---
 
