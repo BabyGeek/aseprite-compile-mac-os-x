@@ -1,5 +1,11 @@
 # Compile Aseprite on Mac OS X
 
+---
+
+I retireved differents sources to finaly come all into one single file, hope it can helps you, all sources are listed at the end of this file.
+
+---
+
 ## Requirements :
 1. Xcode v12.1 [download here](https://download.developer.apple.com/Developer_Tools/Xcode_12.1/Xcode_12.1.xip)
 2. Xcode v12.1 command line tools [download here](https://download.developer.apple.com/Developer_Tools/Command_Line_Tools_for_Xcode_12.1_GM_seed/Command_Line_Tools_for_Xcode_12.1_GM_seed.dmg)
